@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/dungeon\/dungeon_entry.json"
+                 "value":"..\/dungeon\/dungeon_entry.json#reentry-wak-lab"
                 }],
          "type":"tilelayer",
          "visible":false,
