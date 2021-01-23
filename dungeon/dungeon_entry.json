@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/dungeon_start.json"
+                 "value":".\/dungeon_start.json#reentry-dungeon-start"
                 }],
          "type":"tilelayer",
          "visible":true,
