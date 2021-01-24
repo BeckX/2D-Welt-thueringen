@@ -151,6 +151,19 @@
          "tilecount":200,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":1201,
+         "image":"grassy_tileset_new.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"grassy_tileset_new",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
