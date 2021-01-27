@@ -79,12 +79,6 @@
          "id":40,
          "name":"background_0",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"birdsong.mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
