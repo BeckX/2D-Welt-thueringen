@@ -65,7 +65,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/wak-lab\/wak-lab,json"
+                 "value":"..\/wak-lab\/wak-lab,json#reentry-EG"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -112,7 +112,7 @@
                  "value":"..\/dungeon\/dungeon_entry.json#reentry-waklab"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
